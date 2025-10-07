@@ -1,4 +1,4 @@
-# cycleGAN
+# Modified cycleGAN
 done using pytorch with slight modifications
 
 to use pretrained weights use load model = TRUE in config.py
