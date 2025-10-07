@@ -1,5 +1,5 @@
 # Modified cycleGAN
-done using pytorch with slight modifications
+Modified the loss function and normalization method for faster convergence using pytorch
 
 to use pretrained weights use load model = TRUE in config.py
 
